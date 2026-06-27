@@ -1,11 +1,11 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9D4EDD&vCenter=true&width=900&lines=Hi,+I'm+Shweta+Bairagi;Open+Source+Enthusiast;Aspiring+Software+Engineer;+%26+Machine+Learning+Developer;Deep+Learning+Enthusiast;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9D4EDD&vCenter=true&width=900&lines=Hi,+I'm+Shweta+Bairagi;Full+Stack+Developer;Open+Source+Enthusiast;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Explorer;" />
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=MohitPal2005&label=Profile%20views&color=1F6FEB&style=flat" />
-    <img src="https://img.shields.io/github/followers/MohitPal2005?label=Followers&style=flat&color=success" />
-    <img src="https://img.shields.io/github/stars/MohitPal2005?label=Stars&style=flat&color=yellow" />
-  </p>
+    <img src="https://komarev.com/ghpvc/?username=SHWETA-space&label=Profile%20Views&color=1F6FEB&style=flat" />
+    <img src="https://img.shields.io/github/followers/SHWETA-space?label=Followers&style=flat&color=success" />
+    <img src="https://img.shields.io/github/stars/SHWETA-space?label=Stars&style=flat&color=yellow" />
+</p>
 
 <h3 align="center">A passionate developer from India</h3>
 
@@ -17,115 +17,63 @@
 
 ## 👨‍💻 About Me
 
-I am a **B.Tech CSE** undergraduate at **VIT Bhopal University**, with a strong interest in **Software Engineering, Artificial Intelligence, and Machine Learning**. I enjoy building practical applications that combine clean logic, efficient code, and real-world problem solving.
+I am a **B.Tech CSE** undergraduate at **VIT Bhopal University**, with a strong interest in **Java,Machine Learning and Deep Learning**. I enjoy building practical applications that combine clean logic, efficient code, and real-world problem solving.
 
-I have hands-on experience with **C++, Python, JavaScript, HTML, and CSS**, and I am currently expanding my skills in **full-stack development and machine learning**. I actively practice **data structures and algorithms**, and I believe in writing code that is both readable and scalable.
+I have hands-on experience with **JAva, Python, JavaScript, HTML, and CSS**, and I am currently expanding my skills in **full-stack development and machine learning**. I actively practice **data structures and algorithms**, and I believe in writing code that is both readable and scalable.
 
 I am a curious learner, a consistent problem solver, and always eager to explore new technologies that help me grow as a developer.
 
 ---
+## 🌐 Connect With Me
 
-## 👨‍💻 What I Can Build For You
+<div align="center">
 
-I am a developer specializing in full-stack architecture and machine learning integrations. I don't just write code; I build practical, efficient, and scalable applications that solve real-world problems. 
 
-* **Custom Web Applications:** Building responsive frontends and robust REST APIs using React, Flask, and JavaScript.
-* **AI & Computer Vision:** Developing intelligent scripts for image processing, object detection, and predictive modeling using TensorFlow and OpenCV.
-* **High-Performance Code Optimization:** Leveraging deep algorithmic expertise to refactor, debug, and dramatically speed up Python and C++ codebases.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravikumarpal9584)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rp077216@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/Ravi1234-ui)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/ravipal9584/)
 
----
 
-## 🚀 Open Source Journey
+</div>
 
-I actively contribute to open-source projects and enjoy collaborating with developers across the community. Through these contributions, I have worked with existing codebases, submitted improvements, and participated in the collaborative development workflow using Git and GitHub.
 
-### 🛠 Open Source Contributions
-- Contributed to multiple open-source repositories
-- Submitted pull requests for improvements and fixes
-- Worked on bug fixes, documentation updates, and minor feature enhancements
-- Collaborated with maintainers through code reviews and discussions
-
-### 🚀 Proven Experience & Open Source
-
-Clients hire me because my code meets strict professional standards. I actively contribute to enterprise-level open-source software and compete at the national level.
-
-* **Matplotlib Contributor:** Successfully merged code into the core Matplotlib library to resolve cursor lag issues, demonstrating my ability to navigate and optimize complex, real-world codebases.
-* **National Hackathon Finalist:** Placed in the Top 10 at the InvokED 5.0 National Hackathon for building an impactful tech solution.
-* **Advanced Problem Solving:** Solved 400+ complex algorithmic challenges across competitive programming platforms, ensuring the code I write for you is highly optimized for time and memory efficiency.
-* **Technical Screenings:** Vetted by organizations like FOSSEE through the successful development of complex visualizer tools.
-
-### 📚 Skills Developed Through Open Source
-- Git & GitHub collaboration workflow
-- Understanding and navigating real-world codebases
-- Writing clean, maintainable contributions
-- Participating in issue discussions and code reviews
-
-### 🎯 Current Focus
-- Contributing to projects related to **Python, Machine Learning, and Developer Tools**
-- Expanding experience in collaborative open-source development
-- Preparing to contribute to organizations participating in **Google Summer of Code**
-
-### 💡 Areas of Interest
-- AI / Machine Learning tools
-- Developer productivity tools
-- Web-based applications
-- Open-source infrastructure and utilities
 
 ---
-
-## 🤝 Connect with me
-<p>
-  <strong>🌐 Portfolio :</strong>
-  <a href="https://mohitpal-portfolio.vercel.app/" target="_blank">
-    https://mohitpal-portfolio.vercel.app/
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohit-pal-117430338/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/mohit_pal_7999/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.geeksforgeeks.org/profile/mohit7999" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:mohit.24bey10122@vitbhopal.ac.in">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
-  </a>
-</p>
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" height="32"/>
-</p>
+<div align="center">
 
-### 🌐 Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="32"/>
-</p>
+### 💻 Languages & Web
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) 
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square) 
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
-### 🗄️ Database & Backend
-- **MySQL**
-- **Firebase**
-- **Flask**
-- **REST / Fast APIs**  
-- **Machine Learning**  
-- Deployment: **Vercel**
+### 🗄️ Backend, DB & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square) 
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square) 
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
 
-### 🧰 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="32"/>
-</p>
+### 🧠 ML & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square) 
+![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat-square)
+
+</div>
+
+---
 
 
 ## 📊 GitHub Stats
