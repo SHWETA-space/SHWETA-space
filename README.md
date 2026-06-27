@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://res.cloudinary.com/dg5ijxsap/image/upload/v1780127438/gemini-svg_whamwk.svg)
-![](https://res.cloudinary.com/dg5ijxsap/image/upload/v1780129216/gemini-svg_3_xsramr.svg)
+<div align="center">
+
+[![Tailwind Components][logo-url]][site-url]  
+
+</div>
+
+
+[logo-url]: https://github.com/user-attachments/assets/3e5bde5f-7cad-4a36-a5d8-cc40e9d67e5e
+[site-url]: https://daisyui.com/
