@@ -1,36 +1,145 @@
-## Hi there 👋
-
-<!--
-**SHWETA-space/SHWETA-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Shweta Bairagi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta-space&label=Profile%20views&color=0e75b6&style=flat" alt="shweta-space" /> </p>
-
-- 📫 How to reach me **shwetabairagi050@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9D4EDD&vCenter=true&width=900&lines=Hi,+I'm+Mohit+Pal;Open+Source+Enthusiast;Aspiring+Software+Engineer;AI+%26+Machine+Learning+Developer" />
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=MohitPal2005&label=Profile%20views&color=1F6FEB&style=flat" />
+    <img src="https://img.shields.io/github/followers/MohitPal2005?label=Followers&style=flat&color=success" />
+    <img src="https://img.shields.io/github/stars/MohitPal2005?label=Stars&style=flat&color=yellow" />
+  </p>
+
+<h3 align="center">A passionate developer from India</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohitPal2005/MohitPal2005/main/banner.png" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shweta-space&show_icons=true&locale=en&layout=compact" alt="shweta-space" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shweta-space&show_icons=true&locale=en" alt="shweta-space" /></p>
+I am a **B.Tech CSE** undergraduate at **VIT Bhopal University**, with a strong interest in **Software Engineering, Artificial Intelligence, and Machine Learning**. I enjoy building practical applications that combine clean logic, efficient code, and real-world problem solving.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shweta-space&" alt="shweta-space" /></p>
+I have hands-on experience with **C++, Python, JavaScript, HTML, and CSS**, and I am currently expanding my skills in **full-stack development and machine learning**. I actively practice **data structures and algorithms**, and I believe in writing code that is both readable and scalable.
 
+I am a curious learner, a consistent problem solver, and always eager to explore new technologies that help me grow as a developer.
+
+---
+
+## 👨‍💻 What I Can Build For You
+
+I am a developer specializing in full-stack architecture and machine learning integrations. I don't just write code; I build practical, efficient, and scalable applications that solve real-world problems. 
+
+* **Custom Web Applications:** Building responsive frontends and robust REST APIs using React, Flask, and JavaScript.
+* **AI & Computer Vision:** Developing intelligent scripts for image processing, object detection, and predictive modeling using TensorFlow and OpenCV.
+* **High-Performance Code Optimization:** Leveraging deep algorithmic expertise to refactor, debug, and dramatically speed up Python and C++ codebases.
+
+---
+
+## 🚀 Open Source Journey
+
+I actively contribute to open-source projects and enjoy collaborating with developers across the community. Through these contributions, I have worked with existing codebases, submitted improvements, and participated in the collaborative development workflow using Git and GitHub.
+
+### 🛠 Open Source Contributions
+- Contributed to multiple open-source repositories
+- Submitted pull requests for improvements and fixes
+- Worked on bug fixes, documentation updates, and minor feature enhancements
+- Collaborated with maintainers through code reviews and discussions
+
+### 🚀 Proven Experience & Open Source
+
+Clients hire me because my code meets strict professional standards. I actively contribute to enterprise-level open-source software and compete at the national level.
+
+* **Matplotlib Contributor:** Successfully merged code into the core Matplotlib library to resolve cursor lag issues, demonstrating my ability to navigate and optimize complex, real-world codebases.
+* **National Hackathon Finalist:** Placed in the Top 10 at the InvokED 5.0 National Hackathon for building an impactful tech solution.
+* **Advanced Problem Solving:** Solved 400+ complex algorithmic challenges across competitive programming platforms, ensuring the code I write for you is highly optimized for time and memory efficiency.
+* **Technical Screenings:** Vetted by organizations like FOSSEE through the successful development of complex visualizer tools.
+
+### 📚 Skills Developed Through Open Source
+- Git & GitHub collaboration workflow
+- Understanding and navigating real-world codebases
+- Writing clean, maintainable contributions
+- Participating in issue discussions and code reviews
+
+### 🎯 Current Focus
+- Contributing to projects related to **Python, Machine Learning, and Developer Tools**
+- Expanding experience in collaborative open-source development
+- Preparing to contribute to organizations participating in **Google Summer of Code**
+
+### 💡 Areas of Interest
+- AI / Machine Learning tools
+- Developer productivity tools
+- Web-based applications
+- Open-source infrastructure and utilities
+
+---
+
+## 🤝 Connect with me
+<p>
+  <strong>🌐 Portfolio :</strong>
+  <a href="https://mohitpal-portfolio.vercel.app/" target="_blank">
+    https://mohitpal-portfolio.vercel.app/
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohit-pal-117430338/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/mohit_pal_7999/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.geeksforgeeks.org/profile/mohit7999" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:mohit.24bey10122@vitbhopal.ac.in">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+  </a>
+</p>
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" height="32"/>
+</p>
+
+### 🌐 Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="32"/>
+</p>
+
+### 🗄️ Database & Backend
+- **MySQL**
+- **Firebase**
+- **Flask**
+- **REST / Fast APIs**  
+- **Machine Learning**  
+- Deployment: **Vercel**
+
+### 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="32"/>
+</p>
+
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohitPal2005&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohitPal2005&theme=tokyonight" />
+</p>
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitPal2005&theme=tokyo-night&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitPal2005&theme=tokyonight" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohitPal2005&theme=tokyonight&utcOffset=5.5" />
+</p>
