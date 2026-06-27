@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9D4EDD&vCenter=true&width=900&lines=Hi,+I'm+Mohit+Pal;Open+Source+Enthusiast;Aspiring+Software+Engineer;AI+%26+Machine+Learning+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9D4EDD&vCenter=true&width=900&lines=Hi,+I'm+Shweta+Bairagi;Open+Source+Enthusiast;Aspiring+Software+Engineer;+%26+Machine+Learning+Developer;Deep+Learning+Enthusiast;" />
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=MohitPal2005&label=Profile%20views&color=1F6FEB&style=flat" />
